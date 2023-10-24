@@ -1,3 +1,5 @@
+https://hackernoon.com/pt/alpaca-lora-experimentando-modelo-de-linguagem-grande-feito-em-casa
+
 # 🦙🌲🤏 Alpaca-LoRA
 
 - 🤗 **Try the pretrained model out [here](https://huggingface.co/spaces/tloen/alpaca-lora), courtesy of a GPU grant from Huggingface!**
